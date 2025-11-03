@@ -1,5 +1,7 @@
 # Bernu
 A DOS like interface, you can run it on most microcontrollers that supports micropython. 
+> [!IMPORTANT]
+> Bernu PYker Edition (MicroPython only) is deprecated and should not be focused on. PYker was an attempt.
 
 ## Commands
 These are the main thing to use in the so-called "OS"
