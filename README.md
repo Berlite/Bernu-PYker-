@@ -1,4 +1,4 @@
-# Bernu
+# Bernu (Legacy/PYker)
 A DOS like interface, you can run it on most microcontrollers that supports micropython. 
 > [!IMPORTANT]
 > Bernu PYker Edition (MicroPython only) is deprecated and should not be focused on. PYker was an attempt.
